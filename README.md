@@ -1,10 +1,10 @@
 # Flutter Authentication_App
 
 <p align="center">
-  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/welcome.jpg" width="200" height="300">
-  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/register.jpg" width="200" height="300">
-  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/login.jpg" width="200" height="300">
-  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/forgot_password.jpg" width="200" height="300">
+  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/welcome.jpg" width="200" height="350">
+  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/register.jpg" width="200" height="350">
+  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/login.jpg" width="200" height="350">
+  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/forgot_password.jpg" width="200" height="350">
 </p>
 A simple and clean Authentication App built using Flutter.
 This project demonstrates:
