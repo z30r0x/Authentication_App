@@ -1,5 +1,10 @@
 # Flutter Authentication_App
 
+<p align="center">
+  <img src="https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/welcome.jpg" width="250">
+  <img src="assets/images/signup.png" width="250">
+  <img src="assets/images/home.png" width="250">
+</p>
 ![image alt](https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/welcome.jpg)
 ![image alt](https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/register.jpg)
 ![image alt](https://github.com/z30r0x/Authentication_App/blob/5a832f90aee859d94685c0f024476a5b3fa57b18/images/login.jpg)
